@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/job_cv/app/controllers/IndexController.php</file>
+            <file>file:/C:/xampp/htdocs/job_cv/app/controllers/RegisterController.php</file>
+            <file>file:/C:/xampp/htdocs/job_cv/app/views/index/index.phtml</file>
+            <file>file:/C:/xampp/htdocs/job_cv/app/config/router.php</file>
+            <file>file:/C:/xampp/htdocs/job_cv/app/views/register/form.phtml</file>
+            <file>file:/C:/xampp/htdocs/job_cv/app/controllers/LoginController.php</file>
+            <file>file:/C:/xampp/htdocs/job_cv/app/views/login/index.phtml</file>
+        </group>
+    </open-files>
+</project-private>

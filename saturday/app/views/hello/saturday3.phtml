@@ -1,0 +1,24 @@
+<table style="width:100%">
+   
+  <tr>
+    <th style="color:blue"><h2> <span >DS</span> </h2></th>
+  
+    <th style="color: blue"><h2> <span>NAME</span> </h2> </th>
+  </tr>
+  <?php
+     foreach( $a as $ra )
+         {
+
+        ?>
+  <tr>
+    <th> <?php echo $ra->description ;?></th>
+    
+     <th><?php echo $ra ->name ;?></th>
+    
+  </tr>
+
+  <?php
+    }   
+    
+?>
+</table>

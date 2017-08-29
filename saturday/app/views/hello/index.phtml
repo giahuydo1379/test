@@ -1,0 +1,23 @@
+<table style="width:100%">
+   
+  <tr class=" warning">
+    <th style="color:blue"><h2> <span >ID</span> </h2></th>
+    <th style="color:blue"><h2 > <span >IMAGE</span> </h2></th>
+    <th style="color: blue"><h2> <span>NAME</span> </h2> </th>
+  </tr>
+  <?php
+     foreach( $a as $ra )
+         {
+
+        ?>
+  <tr>
+    <th> <?php echo $ra->category_id ;?></th>
+    <th><?php echo $ra ->image ;?></th>
+    
+  </tr>
+
+  <?php
+    }   
+    
+?>
+</table>
